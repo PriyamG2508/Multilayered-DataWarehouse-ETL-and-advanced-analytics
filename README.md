@@ -129,10 +129,6 @@ Multilayered-DataWarehouse-ETL-and-advanced-analytics/
 │   └── reports/                    # Business reporting queries
 │
 ├── docs/                           # Documentation
-│   ├── data_architecture.drawio    # Architecture diagrams
-│   ├── data_flow.drawio            # Data flow diagrams
-│   ├── data_models.drawio          # Data model diagrams
-│   ├── etl.drawio                  # ETL process diagrams
 │   ├── data_catalog.md             # Data dictionary
 │   └── naming-conventions.md       # Naming standards
 │
